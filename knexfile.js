@@ -11,7 +11,7 @@ module.exports = {
       host:'127.0.0.1',
       user:'root',
       password:'',
-      database:'cloud4'
+      database:'clouddeya'
     },
     migrations:{
       directory:'./migrations'
